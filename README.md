@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 - API used: http://numbersapi.com/42?json
 
 ### The whole accompanying tutorial series is available at :point_right: [this link](https://resocoder.com/flutter-clean-architecture-tdd/) :point_left:.
+ - Youtube [link](https://www.youtube.com/watch?v=lPkWX8xFthE&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech&index=2)
